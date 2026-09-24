@@ -30,7 +30,7 @@ The current code models the coupled effects of lithium transport and stress deve
    clear all;
    clf;
    clc;
-   run('your_script_name.m');
+   run('radial_stress_diff.m');
    ```
 4. The script will generate plots showing the evolution of lithium concentration and displacement over time.
 
