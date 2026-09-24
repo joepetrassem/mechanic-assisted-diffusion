@@ -48,7 +48,7 @@ This project is open-source and available under the MIT License.
 
 ## Author
 
-[Your Name]
+Joseph Petrassem de Sousa
 
 For any questions or discussions, feel free to open an issue or reach out!
 
