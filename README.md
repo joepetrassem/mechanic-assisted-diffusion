@@ -34,14 +34,6 @@ The current code models the coupled effects of lithium transport and stress deve
    ```
 4. The script will generate plots showing the evolution of lithium concentration and displacement over time.
 
-## Future Additions
-
-This repository will be updated with additional computational problems related to:
-
-- Nonlinear transport models
-- Multiphysics simulations
-- Numerical methods for solid mechanics
-
 ## License
 
 This project is open-source and available under the MIT License.
